@@ -1,0 +1,118 @@
+.main {
+  background-color: pink;
+  color: purple !important;
+  height: 80px;
+}
+
+.main:hover{
+  color: antiquewhite !important;
+}
+
+.home {
+  text-decoration: none;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.student {
+  text-decoration: none;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.contact {
+  text-decoration: none;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.home1 {
+  margin-top: 40px;
+  margin-left: 130px;
+  font-size: 40px;
+
+}
+
+.student1 {
+  font-size: 40px;
+  margin-top: 40px;
+  text-align: center;
+  color: indianred;
+}
+
+.contact1 {
+  font-size: 40px;
+  margin-top: 40px;
+  text-align: right;
+  margin-right: 130px;
+}
+
+.btn {
+  margin-left: 400px;
+  background-color: darkseagreen;
+
+}
+
+.table {
+  width: 800px;
+  margin-left: 300px;
+  margin-top: 30px;
+  background-color: white;
+}
+
+th {
+  text-align: center;
+}
+
+table,tr,th,td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.field{
+    margin-left: 25px !important;
+    width: 350px;
+    
+}
+
+
+
+
+h1{
+  text-align: center;
+  margin-top: 20px;
+}
+.grid{
+      background-color: white;
+      height: 500px;
+      width: 80rem;
+      border: 1px solid black;
+      font-weight: bold;
+      font-size: large;
+      border-radius: 20px !important;
+      text-align: center;
+      display:'flex';
+      justify-content:'center';
+      margin-left: 100px;
+      margin-top: 50px;
+  }
+.name{
+  margin-top: -10px;
+}
+
+
+.btn-add{
+  position: absolute;
+  left: 1000px;
+  background-color: pink;
+
+}
+
+.edit{
+  background-color: rgb(21, 142, 234) !important;
+  margin: 20px;
+}
+
+.del{
+  background-color: rgb(180, 39, 39) !important;
+}
